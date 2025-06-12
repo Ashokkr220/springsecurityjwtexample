@@ -1,5 +1,4 @@
 package com.javatechie.jwt.api.filter;
-
 import com.javatechie.jwt.api.service.CustomUserDetailsService;
 import com.javatechie.jwt.api.util.JwtUtil;
 import org.springframework.beans.factory.annotation.Autowired;

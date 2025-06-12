@@ -1,5 +1,4 @@
 package com.javatechie.jwt.api;
-
 import com.javatechie.jwt.api.entity.User;
 import com.javatechie.jwt.api.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
